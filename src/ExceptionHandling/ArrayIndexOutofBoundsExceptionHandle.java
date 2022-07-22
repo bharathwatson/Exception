@@ -20,6 +20,7 @@ public class ArrayIndexOutofBoundsExceptionHandle {
 		System.out.println(a[0]);
 		
 		int length= a.length;
+		System.out.println(length);
 		
 		for(Integer x:a) {
 			System.out.println(x);
