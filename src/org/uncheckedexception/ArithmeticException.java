@@ -11,7 +11,7 @@ public class ArithmeticException {
 		System.out.println(6);
 		System.out.println(7);
 		System.out.println(8);
-		System.out.println(9);
+		System.out.println(12);
 		System.out.println(10);
 		
 	}
