@@ -9,7 +9,7 @@ public class ArithmeticExceptionHandling {
 		try {
 			System.out.println(4/0);//arithmetic exception
 		} 
-		catch (ArithmeticException e) {
+		catch (ArithmeticException|ArrayIndexOutOfBoundsException e) {
 		    System.out.println("Number cant be divided by zero");
 		}
 		finally {
