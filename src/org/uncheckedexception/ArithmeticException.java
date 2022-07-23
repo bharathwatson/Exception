@@ -19,6 +19,7 @@ public class ArithmeticException {
 		System.out.println(121);
 		System.out.println("bharath");
 		System.out.println("vishnu");
+		System.out.println("avinash");
 	}
 
 }
